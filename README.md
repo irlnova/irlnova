@@ -4,6 +4,6 @@
 
 ---
 
-<img width="169" height="72" alt="gunslol" src="https://github.com/user-attachments/assets/87d525bb-4b0d-4ab0-830f-1e446cbc488b" /> <img width="100" height="100" alt="image - 2026-07-06T195938 187" src="https://github.com/user-attachments/assets/855126d3-2503-47c9-ba66-dee59bbf8987" />
+[<img width="169" height="72" alt="gunslol" src="https://github.com/user-attachments/assets/87d525bb-4b0d-4ab0-830f-1e446cbc488b" />](https://guns.lol/irlnova) <img width="100" height="100" alt="image - 2026-07-06T195938 187" src="https://github.com/user-attachments/assets/855126d3-2503-47c9-ba66-dee59bbf8987" />
 <img width="173" height="72" alt="atabook" src="https://github.com/user-attachments/assets/dd0203f4-077d-4ecc-9e89-386eba47f7cb" /> <img width="100" height="100" alt="image - 2026-07-06T200107 298" src="https://github.com/user-attachments/assets/c0f66636-697a-4ad8-889e-7a1a1ca6bda5" />
 <img width="238" height="72" alt="strawpage" src="https://github.com/user-attachments/assets/31db3e08-5e17-4f09-9d04-71c237eaa2ed" />
